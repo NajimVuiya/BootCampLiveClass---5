@@ -1,0 +1,16 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #414346;
+}
+
+h2{
+    margin: 0;
+    padding: 8px;
+    text-align: center;
+    color: #efefef;
+    background-color: #000;
+}
+
